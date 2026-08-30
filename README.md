@@ -7,7 +7,7 @@ Solution for **LofiStack Hackathon 2026 — P08**
 - **Team:** `Candy Crush`
 - **Team ID:** `LSH26-T015`
 - **Problem:** `P08 — School Result Processing and GPA Engine`
-- **Live application:** `https://<your-username>.github.io/lsh26-t015-p08/` (PLACEHOLDER — insert final Pages URL)
+- **Live application:** https://nahidzaman1996271-sketch.github.io/lsh26-t015_po8/?fbclid=IwY2xjawUBK2JwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMUFUaUJqODZZSHVSWEd2bk5zcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeLlbMnAUsjH0w1GK4UAPLRLXEzoI9lGHdx2WNNfxRW1Dw4dMG6FlvUf-YOow_aem_KAfih7Xqvfi-omkzSmZrdQ
 - **Demo video:** None
 
 > Judges will evaluate only the exact commit SHA entered in the Final Submission Form.
