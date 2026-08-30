@@ -37,25 +37,26 @@
   },
   "team_members": [
     {
-      "registered_name": "Nahid Ibn Zaman",
-      "github_username": "nahidzaman1996271-sketch",
-      "major_contribution": "Prepared and structured the GitHub repository, set up GitHub Pages deployment, and handled submission logistics (EVENT.md, repository settings, final push).",
-      "evidence_paths_or_commits": [
-        "EVENT.md",
-        "repository settings / GitHub Pages config",
-        "final submission commit"
-      ]
-    },
+  "registered_name": "Nahid Ibn Zaman",
+  "github_username": "nahidzaman1996271-sketch",
+  "major_contribution": "Built the application: designed and implemented the grading engine and UI logic, prompted, reviewed, and iterated on the core app with Claude, and verified the generated code against the brief's rules.",
+  "evidence_paths_or_commits": [
+    "engine.js",
+    "app.js",
+    "data.js"
+  ]
+},
     {
-      "registered_name": "Farhan Ishraq Ifti",
-      "github_username": "252-35-648-ops",
-      "major_contribution": "Built the application: prompted, reviewed, and iterated on the grading engine and UI with Claude, and verified the generated code against the brief's rules.",
-      "evidence_paths_or_commits": [
-        "engine.js",
-        "app.js",
-        "data.js"
-      ]
-    },
+  "registered_name": "Farhan Ishraq Ifti",
+  "github_username": "252-35-648-ops",
+  "major_contribution": "Prepared and structured the GitHub repository documentation and submission package: wrote README.md, LICENSES.md, EVENT.md, and the evaluation manifest, and handled repository settings.",
+  "evidence_paths_or_commits": [
+    "README.md",
+    "LICENSES.md",
+    "EVENT.md",
+    "evaluation-manifest.json"
+  ]
+},
     {
       "registered_name": "Tahmid Rashid Pranjol",
       "github_username": "Tahmid-442",
