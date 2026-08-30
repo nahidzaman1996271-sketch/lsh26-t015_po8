@@ -17,7 +17,7 @@ on the trace screen is a hand-authored inline SVG path (`app.js`,
 
 ## AI tools
 
-None.
+- **Claude** — Used for drafting and iterating on the grading engine (`engine.js`) and report UI (`app.js`/`data.js`) logic against the brief's rules and clarifications (R-10 through R-29). Verified by manually recomputing GPA and grade points by hand for representative students covering all four required hard-edge cases, and by cross-checking the on-screen checking lists against the fixture data directly.
 
 ## Original-work statement
 
