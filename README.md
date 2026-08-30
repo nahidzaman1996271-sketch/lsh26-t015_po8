@@ -81,9 +81,9 @@ See [`LICENSES.md`](LICENSES.md) for third-party materials.
 | Registered member | GitHub username | Major contribution | Evidence |
 |---|---|---|---|
 | Nahid Ibn Zaman | `nahidzaman1996271-sketch` | Repository structure, GitHub Pages deployment, and submission logistics | `EVENT.md`, repository settings, final submission commit |
-| Farhan Ishraq Ifti | `252-35-648-ops` | The grading engine and report UI — prompted, reviewed, and iterated with Claude, and verified generated code against the brief's rules | `engine.js`, `app.js`, `data.js` |
+| Farhan Ishraq Ifti | `252-35-648-ops` | Documentation and evidence — wrote `EVENT.md`, `README.md`, `LICENSES.md`, and `evaluation-manifest.json` | `EVENT.md`, `README.md`, `LICENSES.md`, `evaluation-manifest.json` |
 | Tahmid Rashid Pranjol | `Tahmid-442` | QA — tested all four required hard-edge cases against the live app, cross-checked checking lists and trace output against the fixture data, and verified the requirement-by-requirement proof | `README.md` (proof table), `smoke_test.js` |
-| Mahmuda Khanum | `252-35-537-del` | Documentation and evidence — wrote/reviewed `README.md`, `LICENSES.md`, and `evaluation-manifest.json`, and captured screenshots | `README.md`, `LICENSES.md`, `evaluation-manifest.json` |
+| Mahmuda Khanum | `252-35-537-del` | The grading engine and report UI — designed and implemented the core logic, prompted, reviewed, and iterated with Claude, and verified generated code against the brief's rules | `engine.js`, `app.js`, `data.js` |
 
 Commit count alone does not represent contribution.
 
