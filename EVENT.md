@@ -1,10 +1,10 @@
 # Event Start Record
 
-- *Team ID:* `LSH26-T015`
-- *Problem ID:* `P08`
-- *Repository:* `lsh26-t015-p08`
-- *Event start code:* `LSH26-8490-C900`
-- *Repository created before release:* no
+- **Team ID:** `LSH26-T015`
+- **Problem ID:** `P08`
+- **Repository:** `lsh26-t015-p08`
+- **Event start code:** `LSH26-8490-C900`
+- **Repository created before release:** no
 
 ## Material present before 6:00 PM
 
