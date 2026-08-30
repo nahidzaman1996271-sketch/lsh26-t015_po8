@@ -41,9 +41,7 @@
       "github_username": "nahidzaman1996271-sketch",
       "major_contribution": "Repository structure, GitHub Pages deployment, and submission logistics.",
       "evidence_paths_or_commits": [
-        "EVENT.md",
-        "repository settings / GitHub Pages config",
-        "final submission commit"
+        863ba536d2969a089432ad5fe5bd5daacb9a188f
       ]
     },
     {
@@ -51,7 +49,7 @@
       "github_username": "252-35-648-ops",
       "major_contribution": "Documentation and evidence: wrote EVENT.md, README.md, LICENSES.md, and the evaluation manifest.",
       "evidence_paths_or_commits": [
-        "d067c74", "9f50d6f", "98a898e", "5306979", "6d1d526", "9257fb3"
+        b00dc526a2108b385d6702cf8cf634837c581c9b
       ]
     },
     {
