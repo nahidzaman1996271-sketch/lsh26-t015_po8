@@ -51,10 +51,7 @@
       "github_username": "252-35-648-ops",
       "major_contribution": "Documentation and evidence: wrote EVENT.md, README.md, LICENSES.md, and the evaluation manifest.",
       "evidence_paths_or_commits": [
-        "EVENT.md",
-        "README.md",
-        "LICENSES.md",
-        "evaluation-manifest.json"
+        "d067c74", "9f50d6f", "98a898e", "5306979", "6d1d526", "9257fb3"
       ]
     },
     {
