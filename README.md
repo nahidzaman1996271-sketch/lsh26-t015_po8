@@ -80,8 +80,8 @@ See [`LICENSES.md`](LICENSES.md) for third-party materials.
 
 | Registered member | GitHub username | Major contribution | Evidence |
 |---|---|---|---|
-| Nahid Ibn Zaman | `nahidzaman1996271-sketch` | Repository structure, GitHub Pages deployment, and submission logistics | `EVENT.md`, repository settings, final submission commit |
-| Farhan Ishraq Ifti | `252-35-648-ops` | Documentation and evidence — wrote `EVENT.md`, `README.md`, `LICENSES.md`, and `evaluation-manifest.json` | d067c74, 9f50d6f, 98a898e, 5306979, 6d1d526, 9257fb3|
+| Nahid Ibn Zaman | `nahidzaman1996271-sketch` | Repository structure, GitHub Pages deployment, and submission logistics |35027d993fa5f696a4bee15b4df8db471773dc99, 54ae774ae7c05c27a2bc7fda3ddeac4eeb1a49b2,863ba536d2969a089432ad5fe5bd5daacb9a188f, ab8e0ba493b84259410c3a8899b9a13f7f681483, 01f0cae1c3af3d4786537370383f998b4e98c64d, 52705444e87e0348ab52d0687858abab72efc986,   |
+| Farhan Ishraq Ifti | `252-35-648-ops` | Documentation and evidence — wrote `EVENT.md`, `README.md`, `LICENSES.md`, and `evaluation-manifest.json`, b00dc526a2108b385d6702cf8cf634837c581c9b, 419a153422f5a994b620d22c1baaec1917288bbc, 5306979a8e69fe043ab1eff61550034659de15c9 | 9257fb328867c94392deac9ce7a8b3e88b1c8057,6d1d52688fea2be41fe67cdc4cc9c77b3abd851b,  |
 | Tahmid Rashid Pranjol | `Tahmid-442` | QA — tested all four required hard-edge cases against the live app, cross-checked checking lists and trace output against the fixture data, and verified the requirement-by-requirement proof | `README.md` (proof table), `smoke_test.js` |
 | Mahmuda Khanum | `252-35-537-del` | The grading engine and report UI — designed and implemented the core logic, prompted, reviewed, and iterated with Claude, and verified generated code against the brief's rules | `engine.js`, `app.js`, `data.js` |
 
